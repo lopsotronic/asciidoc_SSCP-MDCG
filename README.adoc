@@ -11,6 +11,8 @@ At the same time, XML-based tooling is often sought after for the possibility of
 
 Using Asciidoc provides a middle path: it opens up simple CCS techniques but can also be used in conjunction with both DaC process and standard open toolingfootnote:[git, visual studio code, intellij, etc].
 
+This project is a placeholder for the generation of SSCP publications using an Asciidoc / DaC process.
+
 == About the File System
 
 .Folder Name Description
