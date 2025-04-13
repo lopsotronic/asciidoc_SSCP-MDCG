@@ -1,0 +1,2 @@
+[[DMC-SSCP-A-ProfileTrainingUser]]
+= Suggested profile and training for users

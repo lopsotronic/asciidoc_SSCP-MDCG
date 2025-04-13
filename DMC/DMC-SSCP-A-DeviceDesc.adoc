@@ -1,0 +1,2 @@
+[[DMC-SSCP-A-DeviceDesc]]
+=  Intended use of the device

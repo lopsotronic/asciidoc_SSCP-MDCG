@@ -1,0 +1,34 @@
+= SSCP Demo Book: Demo Product
+SpecAgile Demo <john.mogilewsky@specagile.org>
+v0.1.4, {docdatetime}: Revremark
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: left
+:toclevels: 4
+:experimental:
+:numbering:
+:sectnums:
+:sectnumlevels: 5
+:stylesheet: ../../asciidoc_css/adoc-github.css
+//:stylesheet: ../css/document.css,../css/cover.css
+//../css/features/title-document-numbering.css
+//../css/features/title-page.css
+
+include::../DMC/DMC-SSCP-A-DeviceID.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-DeviceIntendedUse.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-DeviceDesc.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-RisksWarnings.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-PMCF.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-DiagnosticTherapeutic.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-ProfileTrainingUser.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-ReferenceStandards.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-RevHist.adoc[leveloffset=+1]

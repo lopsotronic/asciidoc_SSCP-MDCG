@@ -1,0 +1,2 @@
+[[DMC-SSCP-A-DeviceID]]
+= Device identification and general information
