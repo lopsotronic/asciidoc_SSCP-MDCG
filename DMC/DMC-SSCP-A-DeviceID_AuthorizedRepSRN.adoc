@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-DeviceID_AuthorizedRepSRN]]
+
+= Authorised representative if applicable; name and the SRN

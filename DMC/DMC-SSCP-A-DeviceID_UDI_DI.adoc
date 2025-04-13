@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-DeviceID_UDI_DI]]
+
+= Basic UDI-DI

@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-DeviceIntendedUse_Indications]]
+
+= Indications and Target Populations

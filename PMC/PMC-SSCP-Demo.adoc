@@ -18,13 +18,61 @@ v0.1.4, {docdatetime}: Revremark
 
 include::../DMC/DMC-SSCP-A-DeviceID.adoc[leveloffset=+1]
 
+include::../DMC/DMC-SSCP-A-DeviceID_TradeName.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_ManufacturerNameAddress.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_ManufacturerSRN.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_UDI_DI.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_DeviceNomen.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_DeviceClass.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_YearFirstCE.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_AuthorizedRepSRN.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceID_NBnameAndID.adoc[leveloffset=+2]
+
 include::../DMC/DMC-SSCP-A-DeviceIntendedUse.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-DeviceIntendedUse_IntendedPurpose.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceIntendedUse_Indications.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceIntendedUse_Contraindications.adoc[leveloffset=+2]
 
 include::../DMC/DMC-SSCP-A-DeviceDesc.adoc[leveloffset=+1]
 
+include::../DMC/DMC-SSCP-A-DeviceDesc_Description.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceDesc_PreviousVariants.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceDesc_Accessories.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-DeviceDesc_Peripherals.adoc[leveloffset=+2]
+
 include::../DMC/DMC-SSCP-A-RisksWarnings.adoc[leveloffset=+1]
 
+include::../DMC/DMC-SSCP-A-RisksWarnings_Risks.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-RisksWarnings_Warnings.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-RisksWarnings_OtherData.adoc[leveloffset=+2]
+
 include::../DMC/DMC-SSCP-A-PMCF.adoc[leveloffset=+1]
+
+include::../DMC/DMC-SSCP-A-PMCF_ClinicalDataEquivalentDevice.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-PMCF_ClinicalDataInvestigationCEmark.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-PMCF_ClinicalDataOtherSources.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-PMCF_ClinicalDataPerformanceSummary.adoc[leveloffset=+2]
+
+include::../DMC/DMC-SSCP-A-PMCF_FollowupPostMarket.adoc[leveloffset=+2]
 
 include::../DMC/DMC-SSCP-A-DiagnosticTherapeutic.adoc[leveloffset=+1]
 

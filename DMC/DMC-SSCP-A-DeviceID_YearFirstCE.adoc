@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-DeviceID_YearFirstCE]]
+
+= Year when the first certificate (CE) was issued covering the device

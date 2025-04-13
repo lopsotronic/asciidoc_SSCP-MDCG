@@ -1,0 +1,4 @@
+[[DMC-SSCP-A-PMCF_ClinicalDataInvestigationCEmark]]
+
+= Summary of clinical data from conducted investigations of the device before
+the CE-marking, if applicable

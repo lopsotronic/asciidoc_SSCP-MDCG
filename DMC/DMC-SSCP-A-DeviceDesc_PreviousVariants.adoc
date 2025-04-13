@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-DeviceDesc_PreviousVariants]]
+
+= A reference to previous generation(s) or variants if such exist, and a description of the differences

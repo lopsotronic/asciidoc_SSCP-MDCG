@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-DeviceDesc_Peripherals]]
+
+= Description of any other devices and products which are intended to be used in combination with the device

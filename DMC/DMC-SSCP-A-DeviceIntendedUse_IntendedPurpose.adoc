@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-DeviceIntendedUse_IntendedPurpose]]
+
+= Intended Purpose

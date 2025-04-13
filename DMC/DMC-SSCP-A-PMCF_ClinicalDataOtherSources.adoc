@@ -1,0 +1,3 @@
+[[DMC-SSCP-A-PMCF_ClinicalDataOtherSources]]
+
+= Summary of clinical data from other sources, if applicable

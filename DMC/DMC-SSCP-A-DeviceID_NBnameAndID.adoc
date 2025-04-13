@@ -1,0 +1,4 @@
+[[DMC-SSCP-A-DeviceID_NBnameAndID]]
+
+= NB’s name (the NB that will validate the SSCP) and the NB’s single
+identification number

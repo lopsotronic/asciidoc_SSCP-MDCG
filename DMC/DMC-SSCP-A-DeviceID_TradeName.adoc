@@ -1,0 +1,2 @@
+[[DMC-SSCP-A-DeviceID_TradeName]]
+= Device trade name(s)
