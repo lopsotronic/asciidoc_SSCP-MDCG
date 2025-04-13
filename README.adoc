@@ -8,3 +8,7 @@ Asciidoc project template for the CCS (component content) production of SSCP (MD
 Traditional XML-based publication technologies do not align with modern DaCfootnote:[Docs-As-Code] process, infrastructure, and management, but are often sought after for the possibility of content re-use via CCSfootnote:[Component Content System] techniques.
 
 Using Asciidoc provides a middle path where CCS techniques can be used in conjunction with DaC processes.
+
+== More information
+
+https://health.ec.europa.eu/document/download/5f082b2f-8d51-495c-9ab9-985a9f39ece4_en[MDCG 2019]
