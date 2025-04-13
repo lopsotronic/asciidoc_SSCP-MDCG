@@ -1,4 +1,4 @@
-= Asciidoc SSCP (MDCG) Project Template
+= Asciidoc SSCPfootnote:[Summary of safety and clinical performance] (MDCGfootnote:[Medical Device Coordination Group]) Project Template
 
 [abstract]
 Asciidoc project template for the CCS (component content) production of SSCP (MDCG-2019) documentation in medical manufacturing contexts.
