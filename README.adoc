@@ -1,0 +1,10 @@
+= Asciidoc SSCP (MDCG) Project Template
+
+[abstract]
+Asciidoc project template for the CCS (component content) production of SSCP (MDCG-2019) documentation in medical manufacturing contexts.
+
+== General
+
+Traditional XML-based publication technologies do not align with modern DaCfootnote:[Docs-As-Code] process, infrastructure, and management, but are often sought after for the possibility of content re-use via CCSfootnote:[Component Content System] techniques.
+
+Using Asciidoc provides a middle path where CCS techniques can be used in conjunction with DaC processes.
