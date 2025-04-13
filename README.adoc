@@ -9,6 +9,19 @@ Traditional XML-based publication technologies do not align with modern DaCfootn
 
 Using Asciidoc provides a middle path where CCS techniques can be used in conjunction with DaC processes.
 
+== About the File System
+
+.Folder Name Description
+[horizontal]
+DMC:: Data Modules, representing content modules that can be combined into new SSCP documents. Accessed from PMC via https://docs.asciidoctor.org/asciidoc/latest/directives/include/[Asciidoc include directive]
+PMC:: Publication Modules, each of which can produce a specific SSCP document
+GFX:: Supporting graphics in raster format
+SVG:: Supporting graphics in vector format
+CIR:: Common Information Repository, each of which provide a warehouse of re-usable admonitions, material safety data, or other discrete parts. Accessed from DMC via https://docs.asciidoctor.org/asciidoc/latest/directives/include-tagged-regions/[Asciidoc include to tagged region]
+XSL:: Stylesheets using the DocBook-XSL PDF pipeline. This is the current active PDF pipeline.
+YML:: Stylesheets using the `asciidoctor-pdf` PDF publishing pipeline
+PMM:: Stylesheets using the `asciidoctor-web-pdf` (JS+CSS Paged Media Module) PDF publishing pipeline.
+
 == More information
 
 https://health.ec.europa.eu/document/download/5f082b2f-8d51-495c-9ab9-985a9f39ece4_en[MDCG 2019]
