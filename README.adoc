@@ -5,9 +5,11 @@ Asciidoc project template for the CCS (component content) production of SSCP (MD
 
 == General
 
-Traditional XML-based publication technologies do not align with modern DaCfootnote:[Docs-As-Code] process, infrastructure, and management, but are often sought after for the possibility of content re-use via CCSfootnote:[Component Content System] techniques.
+Traditional XML-based publication technologies do not align with modern DaCfootnote:[Docs-As-Code] process, infrastructure, and management. XML-based publications also require thick, expensive, and complex tooling for writing, review, and publishing.
 
-Using Asciidoc provides a middle path: CCS techniques but used in conjunction with DaC processes and standard open toolingfootnote:[git, visual studio code, intellij, etc].
+At the same time, XML-based tooling is often sought after for the possibility of content re-use via CCSfootnote:[Component Content System] techniques.
+
+Using Asciidoc provides a middle path: it opens up simple CCS techniques but can also be used in conjunction with both DaC process and standard open toolingfootnote:[git, visual studio code, intellij, etc].
 
 == About the File System
 
