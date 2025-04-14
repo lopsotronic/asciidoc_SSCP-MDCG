@@ -1,0 +1,30 @@
+[[DMC-DEMO-000-00-00-01A-020A-A.adoc]]
+
+|===
+|**APPLICABILITY**
+|===
+
+Each document deliverable contains applicable content for its specific maintainable configuration.
+
+This document deliverable applies to the following product configurations:
+
+Product configuration 0 baseline.
+
+
+ifdef::CONFIG1[]
+Product configuration 1 serial number beginning {CONFIG1}.
+endif::CONFIG1[]
+
+ifdef::CONFIG2[]
+Product configuration 2 serial number beginning {CONFIG2}.
+endif::CONFIG2[]
+
+ifdef::CONFIG3[]
+Product configuration 3 serial number beginning {CONFIG3}.
+endif::CONFIG3[]
+
+ifdef::CADDEMO[]
+One-time configuration for CAD-PUB demo.
+endif::CADDEMO[]
+
+Product {PRODUCT} with engine configs {ENGINE} propeller configs {PROP} beginning serial {SERIAL}
