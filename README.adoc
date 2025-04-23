@@ -13,6 +13,20 @@ Asciidoc provides a middle path: it opens up simple CCS techniques but can also 
 
 This project is a placeholder for the generation of SSCP publications using an Asciidoc / DaC process.
 
+== Usage
+
+[.procedure]
+. Project planning teams identify which of the sections of the SSCP are required for the current context.
+. Relevant sections are assigned to individual writers. 
++
+NOTE: In the git context, this can be handled via branching.
+. The writer teams work on their sections.
+. When the writer team is finished with their section, Pull Request against the master / root, and assign the PR to the reviewer. 
+. The PR is either accepted or rejected. 
+.. If rejected, the PR comments will be sent back to the writer team
+.. If accepted, the writer contribution is assimilated into the master
+. When all writer teams are complete, the SSCP is ready for the next stage of acceptannce
+
 == About the File System
 
 .Folder Name Description
