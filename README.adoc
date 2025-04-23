@@ -25,6 +25,7 @@ NOTE: In the git context, this can be handled via branching.
 . The PR is either accepted or rejected. 
 .. If rejected, the PR comments will be sent back to the writer team
 .. If accepted, the writer contribution is assimilated into the master
+. Run the desired PMC publication to assimilate the modules into the publication.
 . When all writer teams are complete, the SSCP is ready for the next stage of acceptannce
 
 == About the File System
