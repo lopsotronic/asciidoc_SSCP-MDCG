@@ -15,6 +15,8 @@ This project is a placeholder for the generation of SSCP publications using an A
 
 == Usage
 
+NOTE: More complex change management techniques - like aggregating change packages into a document revision via git tagging, autogen revision history/list of changes, etc - is outside of the scope of this README.
+
 [.procedure]
 . Project planning teams identify which of the sections of the SSCP are required for the current context.
 . Relevant sections are assigned to individual writers. 
