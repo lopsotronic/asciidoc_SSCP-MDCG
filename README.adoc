@@ -23,7 +23,7 @@ NOTE: More complex change management techniques - like aggregating change packag
 +
 NOTE: In the git context, this can be handled via branching.
 
-.. If a section is unique enough to complicate re-use, create a new variant by assigning the filename a new System Difference Code (SDC). For example, *Contraindications and Limitations* filename `DMC-SSCP-A-DeviceIntendedUse_Contraindications.adoc` might need to be modified to such a degree that it makes more sense to have a unique file. Create a new file with a unique SDC, i.e. `DMC-SSCP-000A-DeviceIntendedUse_Contraindications.adoc`
+.. If a section is unique enough to complicate re-use, create a new variant by assigning the filename a new System Difference Code (SDC). For example, *Contraindications and Limitations* filename `DMC-SSCP-A-DeviceIntendedUse_Contraindications.adoc` might need to be modified to such a degree that it makes more sense to have a unique file. Create a new file with a unique SDC `000A`, i.e. `DMC-SSCP-000A-DeviceIntendedUse_Contraindications.adoc`
 . The writer teams work on their sections.
 . When the writer team is finished with their section, Pull Request against the master / root, and assign the PR to the reviewer. 
 . The PR is either accepted or rejected. 
